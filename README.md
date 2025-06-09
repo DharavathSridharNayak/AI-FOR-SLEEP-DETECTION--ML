@@ -8,7 +8,7 @@ Goal: Predict whether a person is asleep or awake using machine learning models 
 
 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-ML Techniques: Data preprocessing, feature engineering, classification algorithms (e.g., Logistic Regression, Random Forest, SVM)
+ML Techniques: Data preprocessing, feature engineering, classification algorithms (e.g., XG Boost and Random Forest)
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
 
