@@ -34,4 +34,4 @@ Deep learning-based architecture (e.g., LSTM for time-series data)
 
 Deployed as an interactive app using Streamlit
 
-👉 [Click here to try the Medical Insurance Price Prediction App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SreedharNayak)
+👉 [Click here to try the AI FOR SLEEP DETECTION App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SreedharNayak)
