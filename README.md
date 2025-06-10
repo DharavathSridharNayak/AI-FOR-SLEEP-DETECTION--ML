@@ -23,14 +23,6 @@ Multiple supervised ML models for classification
 
 Exploratory Data Analysis (EDA) and visualization
 
-Model comparison and selection for optimal performance
-
-Future Enhancements:
-
-Integration with wearable device APIs for real-time sleep tracking
-
-Deep learning-based architecture (e.g., LSTM for time-series data)
-
 
 Deployed as an interactive app using Streamlit
 
