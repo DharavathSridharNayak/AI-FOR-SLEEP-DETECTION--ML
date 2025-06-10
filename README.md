@@ -31,4 +31,7 @@ Integration with wearable device APIs for real-time sleep tracking
 
 Deep learning-based architecture (e.g., LSTM for time-series data)
 
-Deployment as a Streamlit or Flask web app for user interaction
+
+Deployed as an interactive app using Streamlit
+
+👉 [Click here to try the Medical Insurance Price Prediction App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SreedharNayak)
