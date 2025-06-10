@@ -1,0 +1,47 @@
+/* style.css */
+.stApp {
+    background-color: #0e1117;
+    color: #ffffff;
+}
+
+.stSidebar {
+    background-color: #1a1a1a;
+}
+
+.stButton>button {
+    background-color: #4af3a1;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.stButton>button:hover {
+    background-color: #3ad391;
+    color: #000000;
+}
+
+.stTextInput>div>div>input {
+    background-color: #2a2a2a;
+    color: white;
+}
+
+.stSlider>div>div>div>div {
+    background-color: #4af3a1;
+}
+
+.stSelectbox>div>div>div {
+    background-color: #2a2a2a;
+    color: black;
+}
+
+.stRadio>div {
+    background-color: #2a2a2a;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.stMarkdown h1, .stMarkdown h2, .stMarkdown h3 {
+    color: #4af3a1;
+}
