@@ -1,4 +1,4 @@
-😴 AI FOR SLEEP DETECTION USING MACHINE LEARNING 
+😴 AI FOR SLEEP DETECTION USING MACHINE LEARNING:
 
 
 This project leverages machine learning techniques to detect and classify sleep states based on physiological or behavioral data. The objective is to build an intelligent system that can identify sleep patterns and stages, contributing to sleep monitoring, health tracking, and wellness analysis.
