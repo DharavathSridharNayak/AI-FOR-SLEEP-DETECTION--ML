@@ -27,3 +27,8 @@ Exploratory Data Analysis (EDA) and visualization
 Deployed as an interactive app using Streamlit
 
 👉 [Click here to try the AI FOR SLEEP DETECTION App on Hugging Face] (https://huggingface.co/spaces/DharavathSri/SreedharNayak)
+
+📸 Screenshot 👇
+
+![{2CD1C920-2CB8-4B05-9D0B-37A925692850}](https://github.com/user-attachments/assets/47eea3e2-adf6-4227-a1a9-ea255cc88519)
+
